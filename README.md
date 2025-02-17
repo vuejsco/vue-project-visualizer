@@ -2,8 +2,8 @@
 
 Vue Project Visualizer is a web tool that generates interactive visualizations for Vue.js, Nuxt.js, and Astro+Vue repositories. It provides insights into the file structure, dependencies, and relationships within your repository, helping developers better understand their project's architecture.
 
-[![GitHub Repo stars](https://img.shields.io/github/stars/vue-project-visualizer?style=for-the-badge&logo=github)](https://github.com/vue-project-visualizer)
-[![GitHub license](https://img.shields.io/github/license/vue-project-visualizer?style=for-the-badge&logo=github)](https://github.com/vue-project-visualizer/blob/main/LICENSE)
+[![GitHub Repo stars](https://img.shields.io/github/stars/vuejsco/vue-project-visualizer?style=for-the-badge&logo=github)](https://github.com/vuejsco/vue-project-visualizer)
+[![GitHub license](https://img.shields.io/github/license/vuejsco/vue-project-visualizer?style=for-the-badge&logo=github)](https://github.com/vuejsco/vue-project-visualizer/blob/main/LICENSE)
 
 ## Features
 
